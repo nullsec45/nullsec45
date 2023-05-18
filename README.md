@@ -5,7 +5,9 @@
 <div>
   <img alt="Banner" src="https://github.com/nullsec45/nullsec45/assets/107412463/b70e21c6-c26e-4218-aae4-580487944eb8"/>
 </div>
-<img alt="#" src="https://img.shields.io/badge/nullsec45-0E98E5" align="center"> 
+<div align-center>
+  <img alt="#" src="https://img.shields.io/badge/NULLSEC45-0E98E5">
+</div>
 <details>
   <summary><b>About me</b></summary>
   <div>
