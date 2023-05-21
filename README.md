@@ -5,7 +5,7 @@
   <summary><b>About Me</b></summary>
   <div>
     <p>
-      Hi, I'm Rama Fajar Fadhillah , nullsec is my username. You can call me Rama or Fajar. I'm a Fullstack Developer, GNU/Linux Enthusiast, and Cyber Security Learner. I'm
+      Hi, I'm Rama Fajar Fadhillah, You can call me Rama or Fajar. I'm a Fullstack Engineer, GNU/Linux Enthusiast, and Cyber Security Learner. I'm
       interested to programming, GNU/Linux, and Cyber Security. I'm using programming language PHP, Javasript, and Golang</p>
   </div>
   
