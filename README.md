@@ -15,7 +15,7 @@
 
   - 🎓 Study at <a href="https://nurulfikri.ac.id">STT Terpadu Nurul Fikri</a>
   - 🔖 Contributor at <a href="https://blankon.id/">Blank On Linux </a>
-  - 👨‍💻 Fullstack Developer at <a href="https://ciptadrasoft.com/">Ciptadrasoft</a>
+  - 👨‍💻 Fullstack Engineer at <a href="https://ciptadrasoft.com/">Ciptadrasoft</a>
 </details>
 <details>
   <summary><b>Github Performances Overall</b></summary>
