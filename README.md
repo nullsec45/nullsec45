@@ -1,9 +1,10 @@
-### Hi there 👋, Fajar in here !!! <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Hi%2C+I+am+Fajar+(NUllsec45);Nice+to+meet+you!;I+am+just+Engineer%2C+linux+enthusiast%2C+and+cyber+security+enthusiast.">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=Hi%2C+I+am+Fajar+(NUllsec45);Nice+to+meet+you!;I+am+Newbie+Programmer%2C;GNU%2FLinux+Enthusiast%2C;FOSS%2FFLOSS+Enthusiast%2C+and;+Cyber+Security+Enthusiast.">
+<p><img align="center" src="https://github.com/nullsec45/nullsec45/blob/main/github-user-contribution.svg" alt="nullsec45" /></p>
 <details>
   <summary><b>About Me</b></summary>
   <div>
     <p>
-      Hi, I'm Rama Fajar Fadhillah, You can call me Rama or Fajar. I'm a Fullstack Engineer, GNU/Linux Enthusiast, and Cyber Security Enthusiast. I'm
+      Hi, I'm Rama Fajar Fadhillah, You can call me Rama or Fajar. I'm a Newbie Programmer, GNU/Linux Enthusiast, and Cyber Security Enthusiast. I'm
       interested to programming, GNU/Linux, and Cyber Security. I'm using programming language PHP, Javasript, and Golang</p>
   </div>
   
