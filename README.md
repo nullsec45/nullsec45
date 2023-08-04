@@ -1,11 +1,9 @@
-<div>
-  <img alt="Banner Profile" src="https://github.com/nullsec45/nullsec45/assets/107412463/e5d4352c-9f95-437c-a1fc-92362937e584"/>
-</div>
+### Hi there 👋, Fajar in here !!! <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=550&lines=Hi%2C+I+am+Fajar+(NUllsec45);Nice+to+meet+you!;I+am+just+Engineer%2C+linux+enthusiast%2C+and+cyber+security+enthusiast.">
 <details>
   <summary><b>About Me</b></summary>
   <div>
     <p>
-      Hi, I'm Rama Fajar Fadhillah, You can call me Rama or Fajar. I'm a Fullstack Engineer, GNU/Linux Enthusiast, and Cyber Security Learner. I'm
+      Hi, I'm Rama Fajar Fadhillah, You can call me Rama or Fajar. I'm a Fullstack Engineer, GNU/Linux Enthusiast, and Cyber Security Enthusiast. I'm
       interested to programming, GNU/Linux, and Cyber Security. I'm using programming language PHP, Javasript, and Golang</p>
   </div>
   
