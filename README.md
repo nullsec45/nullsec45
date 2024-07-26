@@ -6,7 +6,7 @@
   <div>
     <p>
       Hi, I'm Fajar. I'm a Newbie Programmer, GNU/Linux Enthusiast, and Cyber Security Enthusiast. I'm
-      interested to programming, GNU/Linux, and Cyber Security. I'm using programming language PHP, Javasript, and Typescript</p>
+      interested to programming, GNU/Linux, and Cyber Security. I'm using programming language PHP, Bash, Javasript, and Typescript</p>
   </div>
   
 </details>
@@ -15,7 +15,7 @@
 
   - 🎓 Study at <a href="https://nurulfikri.ac.id">STT Terpadu Nurul Fikri</a>
   - 🔖 Web Engineer <a href="https://ciptadrasoft.com/">Ciptadrasoft </a>
-  - Backend Engineer at Wiseline
+  - 🔖 Backend Engineer at Wiseline
 </details>
 <details>
   <summary><b>Github Performances Overall</b></summary>
