@@ -11,13 +11,6 @@
   
 </details>
 <details>
-  <summary><b>Current Activity</b></summary>
-
-  - 🎓 Study at <a href="https://nurulfikri.ac.id">STT Terpadu Nurul Fikri</a>
-  - 🔖 Web Engineer <a href="https://ciptadrasoft.com/">Ciptadrasoft </a>
-  - 🔖 Backend Engineer at Wiseline
-</details>
-<details>
   <summary><b>Github Performances Overall</b></summary>
   
   <div>
